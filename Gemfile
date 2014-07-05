@@ -40,3 +40,4 @@ gem 'spring',        group: :development
 
 gem 'sqlite3'
 gem 'carrierwave'
+gem 'devise'
