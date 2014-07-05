@@ -41,3 +41,4 @@ gem 'spring',        group: :development
 gem 'sqlite3'
 gem 'carrierwave'
 gem 'devise'
+gem 'mini_magick', '3.5.0'
